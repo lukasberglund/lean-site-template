@@ -1,4 +1,4 @@
-baseURL = "http://example-domain.org"
+baseURL = "https://lukasberglund.github.io/lean-site-template/"
 theme = "local-ea-template"
 
 DefaultContentLanguage = "en"
